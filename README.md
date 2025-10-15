@@ -1,1 +1,1 @@
-new project
+This script creates an alias
