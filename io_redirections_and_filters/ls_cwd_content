@@ -1,0 +1,17 @@
+total 60
+drwxr-sr-x 2 codespace codespace 4096 Oct 15 12:10 .
+drwxr-sr-x 6 codespace codespace 4096 Oct 15 11:10 ..
+-rwxr-xr-x 1 codespace codespace   32 Oct 15 11:11 0-hello_world
+-rwxr-xr-x 1 codespace codespace   28 Oct 15 11:18 1-confused_smiley
+-rwxr-xr-x 1 codespace codespace   28 Oct 15 11:29 2-hellofile
+-rwxr-xr-x 1 codespace codespace   39 Oct 15 11:34 3-twofiles
+-rwxr-xr-x 1 codespace codespace   30 Oct 15 11:36 4-lastlines
+-rwxr-xr-x 1 codespace codespace   29 Oct 15 11:41 5-firstlines
+-rwxr-xr-x 1 codespace codespace   40 Oct 15 11:44 6-third_line
+-rwxr-xr-x 1 codespace codespace   80 Oct 15 12:07 7-file
+-rwxr-xr-x 1 codespace codespace   36 Oct 15 12:09 8-cwd_state
+-rw-r--r-- 1 codespace codespace   25 Oct 15 11:15 README.md
+-rw-r--r-- 1 codespace codespace   12 Oct 15 12:03 \*\\'Best School"'\$?*****:)
+-rw-r--r-- 1 codespace codespace   12 Oct 15 12:07 \*\\'Best School"'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 codespace codespace    0 Oct 15 12:10 ls_cwd_content
+-rw-r--r-- 1 codespace codespace   39 Oct 15 11:32 touch
